@@ -1,0 +1,24 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "e-Commerce da disciplina de e-Business do curso de ADS do IFS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/lucasomac/e-commerce.git"
+  },
+  "keywords": [
+    "e-commerce",
+    "node",
+    "mongo"
+  ],
+  "author": "Lucas de Oliveira Macedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasomac/e-commerce/issues"
+  },
+  "homepage": "https://github.com/lucasomac/e-commerce#readme"
+}
