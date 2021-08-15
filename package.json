@@ -12,7 +12,11 @@
 		"type": "git",
 		"url": "git+https://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@github.com/lucasomac/e-commerce.git"
 	},
-	"keywords": ["e-commerce", "node", "mongo"],
+	"keywords": [
+		"e-commerce",
+		"node",
+		"mongo"
+	],
 	"author": "Lucas de Oliveira Macedo",
 	"license": "ISC",
 	"bugs": {
@@ -44,5 +48,8 @@
 		"request": "^2.88.0",
 		"xml2js": "^0.4.19",
 		"xml2json": "^0.11.2"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.12"
 	}
 }
